@@ -1,0 +1,16 @@
+{
+	"name": "imams2/jotaro",
+	"description": "Disini deskripsi package",
+	"type": "library",
+	"license": "MIT",
+	"authors": [{
+		"name": "Imam Sudiyatmo",
+		"email": "sudiyatmoimam@gmail.com"
+	}],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"imams2\\jotaro\\": "src/"
+		}
+	}
+}
